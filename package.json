@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-roboto-fontface",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Robot Fontface imported into application font folder.",
   "keywords": [
     "ember-addon"
