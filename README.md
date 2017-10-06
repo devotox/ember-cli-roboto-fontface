@@ -7,27 +7,11 @@
 [![NPM Downloads](https://img.shields.io/npm/dm/ember-cli-roboto-fontface.svg)](https://www.npmjs.org/package/ember-cli-roboto-fontface)
 [![Greenkeeper badge](https://badges.greenkeeper.io/devotox/ember-cli-roboto-fontface.svg)](https://greenkeeper.io/)
 
-This README outlines the details of collaborating on this Ember addon.
+## Description
+Imports Roboto Fontface into Font folder in application assets
 
 ## Installation
+* `ember install ember-cli-roboto-fontface`
 
-* `git clone <repository-url>` this repository
-* `cd ember-cli-roboto-fontface`
-* `npm install`
-
-## Running
-
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-
-## Running Tests
-
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+#### License
+MIT license.

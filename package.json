@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-roboto-fontface",
   "version": "1.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Robot Fontface imported into application font folder.",
   "keywords": [
     "ember-addon"
   ],
