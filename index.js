@@ -1,4 +1,3 @@
-/* eslint-env node */
 'use strict';
 
 module.exports = {
@@ -15,8 +14,5 @@ module.exports = {
 				}
 			}
 		}
-	},
-	included(/* app */) {
-		this._super.included.apply(this, arguments);
 	}
 };
