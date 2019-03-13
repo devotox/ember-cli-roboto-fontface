@@ -1,18 +1,20 @@
 'use strict';
 
+const { name } = require('./package');
+
 module.exports = {
-	name: 'ember-cli-roboto-fontface',
-	options: {
-		nodeAssets: {
-			'roboto-fontface': {
-				srcDir: 'css/roboto',
-				import: ['roboto-fontface.css'],
-				public: {
-					srcDir: 'fonts',
-					destDir: 'fonts',
-					include: ['roboto/*']
-				}
-			}
-		}
-	}
+  name,
+  options: {
+    nodeAssets: {
+      'roboto-fontface': {
+        srcDir: 'css/roboto',
+        import: ['roboto-fontface.css'],
+        public: {
+          srcDir: 'fonts',
+          destDir: 'fonts',
+          include: ['roboto/*']
+        }
+      }
+    }
+  }
 };
