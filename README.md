@@ -3,8 +3,8 @@
 [![Coverage Status](https://codecov.io/gh/devotox/ember-cli-roboto-fontface/branch/master/graph/badge.svg)](https://codecov.io/gh/devotox/ember-cli-roboto-fontface)
 [![NPM Version](https://badge.fury.io/js/ember-cli-roboto-fontface.svg)](http://badge.fury.io/js/ember-cli-roboto-fontface)
 [![NPM Downloads](https://img.shields.io/npm/dm/ember-cli-roboto-fontface.svg)](https://www.npmjs.org/package/ember-cli-roboto-fontface)
-[![Dependency Status](https://david-dm.org/poetic/ember-cli-roboto-fontface.svg)](https://david-dm.org/poetic/ember-cli-roboto-fontface)
-[![DevDependency Status](https://david-dm.org/poetic/ember-cli-roboto-fontface/dev-status.svg)](https://david-dm.org/poetic/ember-cli-roboto-fontface#info=devDependencies)
+[![Dependency Status](https://david-dm.org/devotox/ember-cli-roboto-fontface.svg)](https://david-dm.org/devotox/ember-cli-roboto-fontface)
+[![DevDependency Status](https://david-dm.org/devotox/ember-cli-roboto-fontface/dev-status.svg)](https://david-dm.org/devotox/ember-cli-roboto-fontface#info=devDependencies)
 [![Greenkeeper](https://badges.greenkeeper.io/devotox/ember-cli-roboto-fontface.svg)](https://greenkeeper.io/)
 
 ember-cli-roboto-fontface
@@ -12,7 +12,7 @@ ember-cli-roboto-fontface
 
 Imports Roboto Fontface into Font folder in application assets
 
-[DEMO](http://devotox.github.io/ember-cli-roboto-fontface)
+[DEMO](https://devotox.github.io/ember-cli-roboto-fontface)
 
 Installation
 ------------------------------------------------------------------------------
